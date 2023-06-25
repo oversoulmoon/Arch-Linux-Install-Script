@@ -1,2 +1,4 @@
 # Arch-Linux-Install-Script
-This is a script to perform a simple install of arch linux.
+This is inspired from Microsoft Deployment Toolit which allows for the quick deployment of multiple systems asynchronously. 
+
+
