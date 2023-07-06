@@ -7,7 +7,7 @@ This script is meant to be ran in the Arch Linux Installation media. On how to m
 Once booted into the installation media (it should be copied to ram and the media can be removed). Execute the following commands
 
 ```
-$ curl -OL https://github.com/oversoulmoon/Arch-Linux-Install-Script/releases/download/v0.1.0-alpha/archInstall
+$ curl -OL https://github.com/oversoulmoon/Arch-Linux-Install-Script/releases/download/v0.2.0-alpha/archInstall
 $ ./ArchInstall
 ```
 
